@@ -1,9 +1,21 @@
+> **V2 업데이트 알림**
+>
+> 기존 "🤖 프로그래머스 랭킹 뱃지 자동 생성 봇"은 V1로 정리하고, 새로운 V2를 릴리즈했습니다.
+>
+> V2 에서는 크롬 익스텐션을 통해 프로그래머스 프로필 정보를 불러오고, 별도 저장소 연동이나 액션 설정 없이 사용할 수 있는 뱃지 이미지 주소와 마크다운 코드를 제공합니다. 생성된 뱃지는 깃허브 프로필이나 README에 그대로 붙여 넣어 사용할 수 있습니다.
+>
+> - [PROGRAMMERS-BADGE-V2](https://programmers-badge.jh8459.com/)
+> - [Chrome 웹 스토어](https://chromewebstore.google.com/detail/programmers-badge-v2/nfaknmfniiemabicmcbdkajapapdglaf?authuser=0&hl=ko)
+
+<br/>
+<br/>
+
 ## 🤖 프로그래머스 랭킹 뱃지 자동 생성 봇
 
 아래의 두 레퍼런스 프로젝트를 **참고**하여 만들었습니다. 🔍
 
-> - 프로그래머스 프로필 SVG 자동 생성 프로젝트 (https://github.com/libtv/github-programmers-rank)
-> - 백준 프로필 SVG 자동 생성 프로젝트 (https://github.com/mazassumnida/mazassumnida)
+- 프로그래머스 프로필 SVG 자동 생성 프로젝트 (https://github.com/libtv/github-programmers-rank)
+- 백준 프로필 SVG 자동 생성 프로젝트 (https://github.com/mazassumnida/mazassumnida)
 
 <br/>
 <br/>
